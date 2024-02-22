@@ -9,3 +9,6 @@ If you are looking for the quickest way to become a proficient user of SimpleITK
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enjoy<br>
 The SimpleITK Team
+
+
+My notes here:
