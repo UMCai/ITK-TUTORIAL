@@ -12,3 +12,5 @@ The SimpleITK Team
 
 
 My notes here:
+1. bug for visualization: can not show interactive image [solve](https://stackoverflow.com/questions/51922480/javascript-error-ipython-is-not-defined-in-jupyterlab)
+2. 
